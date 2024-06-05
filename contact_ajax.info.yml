@@ -1,0 +1,7 @@
+name: Contact Ajax 
+description: Submit contact form using ajax.
+package: Contact
+type: module
+core_version_requirement: ^9 || ^10 || ^11
+dependencies:
+  - drupal:contact
